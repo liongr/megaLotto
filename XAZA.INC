@@ -1,0 +1,3 @@
+@XAZOMARES	macro
+	
+	endm
